@@ -1,11 +1,10 @@
-import buttons from './buttons';
-
+import Buttons from './buttons';
 
 const Calculate = function Calculate() {
   return (
     <>
 
-      <buttons />
+      <Buttons />
 
     </>
 

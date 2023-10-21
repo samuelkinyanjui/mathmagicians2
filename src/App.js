@@ -1,10 +1,11 @@
 import './index.css';
-import Calculate from './components/Calculator';
+import Buttons from './components/buttons';
 
 function App() {
   return (
-
-    <Calculate />
+    <>
+      <Buttons />
+    </>
 
   );
 }

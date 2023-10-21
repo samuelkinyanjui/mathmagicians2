@@ -19,5 +19,9 @@ rad.json
 #License-file
 *.flf
 #Test results file
-TestResults.xml
+
+
+# dependencies
 /node_modules
+/.pnp
+.pnp.js
